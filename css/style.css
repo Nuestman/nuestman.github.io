@@ -1,0 +1,26 @@
+body {
+  background: #dadada;
+  width: 1366px;
+}
+
+header {
+  background: grey;
+  height: 9em;
+  width: auto;
+  display: flex;
+}
+header nav {
+  background: #aaaaaa;
+  border: ghostwhite 1px solid;
+}
+
+main {
+  margin: 2em 0;
+  background: grey;
+  height: 25em;
+}
+
+footer {
+  background: grey;
+  height: 8em;
+}/*# sourceMappingURL=style.css.map */
